@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611634701301",
+    "project_id": "chat-gbt-mobile",
+    "storage_bucket": "chat-gbt-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611634701301:android:fcc9e5fd3b8139e4a836bc",
+        "android_client_info": {
+          "package_name": "com.companny.chatmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnektTd9YE1fQc_Dwl2g0MYrWh4OH1iHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
